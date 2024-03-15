@@ -1,5 +1,6 @@
 ## About Me:
-Hello! I'm Sayali Thengal. I'm in love with tech and design. I love working on things that matter. I'm an enthusiastic about learning new things and finding new ways to solve problems.
+
+👋 Hey there! I'm Sayali Thengal, a tech enthusiast passionate about coding, design, and problem-solving. I'm all about diving into coding adventures, bringing ideas to life, and finding those oh-so-satisfying solutions to problems big and small.
 
 ## 📋 Current Goals
 - [ ] Learn React. 
