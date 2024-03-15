@@ -25,4 +25,4 @@ Hello! I'm Sayali Thengal. I'm in love with tech and design. I love working on t
 </details>
 
 ## Lets Connect
-Let's connect [Email](mailto:thengalsayali05@gmail.com) and [Twitter](https://twitter.com/thengalsayali?s=08)
+Let's connect and talk about tech on [Twitter](https://twitter.com/thengalsayali?s=08)
