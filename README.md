@@ -14,12 +14,15 @@ Hello! I'm Sayali Thengal. I'm in love with tech and design. I love working on t
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+## 📈 Languages  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thengalsayali&layout=compact&theme=tokyonight)]
 
-<details>
-  <summary>Github Stats</summary>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thengalsayali&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="sayali"> </p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thengalsayali&theme=midnight-purple" alt="sayali" /></p>
-</details>
+## 📈 Github Stats
+  ![](https://github-readme-stats.vercel.app/api?username=thengalsayali&show_icons=true&theme=tokyonight)
+  
+## 📈 Languages  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thengalsayali&layout=compact&theme=tokyonight)]
+
 
 ## Lets Connect
 Let's connect [Email](mailto:thengalsayali05@gmail.com) and [Twitter](https://twitter.com/thengalsayali?s=08) 
