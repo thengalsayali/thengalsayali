@@ -18,7 +18,7 @@ Hello! I'm Sayali Thengal. I'm in love with tech and design. I love working on t
 <details>
   <summary>Github Stats</summary>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thengalsayali&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="sayali"> </p>
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thengalsayali&theme=midnight-purple" alt="sayali" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thengalsayali&theme=midnight-purple" alt="sayali" /></p>
 </details>
 
 ## Lets Connect
